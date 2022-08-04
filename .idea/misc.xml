@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/drawable-v24/ic_add.xml" value="0.19166666666666668" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/drawable/ic_edit1.xml" value="0.18518518518518517" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/drawable/outline_delete_24.xml" value="0.19166666666666668" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/drawable/outline_search_24.xml" value="0.20052083333333334" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/activity_hello_main.xml" value="0.1403985507246377" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/activity_login_main.xml" value="0.1403985507246377" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/activity_them_loai_sach.xml" value="0.13541666666666666" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/app_bar_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/content_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/dialog_loaisach.xml" value="0.13541666666666666" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.1" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/fragment_doi_pass.xml" value="0.13043478260869565" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/fragment_loai_sach.xml" value="0.1" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/fragment_log_out.xml" value="0.1" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/fragment_phieu_muon.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/fragment_quan_ly_sach.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/fragment_thanh_vien.xml" value="0.1" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/fragment_top.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/item_loaisach.xml" value="0.16666666666666666" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/item_phieumuon.xml" value="0.37420718816067655" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/loai_sach_dialog_update.xml" value="0.11367753623188406" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/loai_sach_item.xml" value="0.125" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/loai_sach_spinner_item.xml" value="0.22" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/nav_header_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/phieu_muon_dialog.xml" value="0.3333333333333333" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/phieu_muon_dialog_update.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/phieu_muon_item.xml" value="0.11367753623188406" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/quan_ly_phieu_muon.xml" value="0.10144927536231885" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/quan_ly_sach_dialog.xml" value="0.125" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/quan_ly_sach_item.xml" value="0.125" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/sach_dialog_update.xml" value="0.11367753623188406" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/thanhvien_dialog.xml" value="0.13043478260869565" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/thanhvien_item.xml" value="0.14666666666666667" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/top_item.xml" value="0.1" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/layout/update_thanh_vien_dialog.xml" value="0.125" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/menu/activity_main_drawer.xml" value="0.184375" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/menu/main.xml" value="0.184375" />
+        <entry key="..\:/Androidproject/BookStore/app/src/main/res/menu/search_view.xml" value="0.184375" />
+        <entry key="..\:/Androidsdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.1598731884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

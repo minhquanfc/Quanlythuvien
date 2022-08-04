@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Võ Minh Quân</string>
+    <string name="nav_header_subtitle">quanvmph15037@fpt.edu.vn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="menu_phieumuon">Phiếu mượn</string>
+    <string name="menu_loaisach">Loại sách</string>
+    <string name="menu_quanlyloaisach">Quản lý sách</string>
+    <string name="menu_quanlythanhvien">Quản lý thành viên</string>
+    <string name="menu_top10">Top 10 sách mượn nhiều nhất</string>
+    <string name="menu_doanhthu">Doanh thu</string>
+    <string name="menu_doimatkhau">Đổi mật khẩu</string>
+    <string name="menu_dangxuat">Đăng xuất</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

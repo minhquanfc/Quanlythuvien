@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_phieumuon">
+
+    <fragment
+        android:id="@+id/nav_phieumuon"
+        android:name="com.poly.bookstore.fragment.PhieuMuonFragment"
+        android:label="@string/menu_phieumuon"
+        tools:layout="@layout/fragment_phieu_muon" />
+
+    <fragment
+        android:id="@+id/nav_loaisach"
+        android:name="com.poly.bookstore.fragment.LoaiSachFragment"
+        android:label="@string/menu_loaisach"
+        tools:layout="@layout/fragment_loai_sach" />
+
+    <fragment
+        android:id="@+id/nav_quanlysach"
+        android:name="com.poly.bookstore.fragment.QuanLySachFragment"
+        android:label="@string/menu_quanlyloaisach" />
+    <fragment
+        android:id="@+id/nav_quanlythanhvien"
+        android:name="com.poly.bookstore.fragment.ThanhVienFragment"
+        android:label="@string/menu_quanlythanhvien"
+        tools:layout="@layout/fragment_quan_ly_sach" />
+    <fragment
+        android:id="@+id/nav_top10"
+        android:name="com.poly.bookstore.fragment.TopFragment"
+        android:label="@string/menu_top10"
+        tools:layout="@layout/fragment_top" />
+    <fragment
+        android:id="@+id/nav_thongke"
+        android:name="com.poly.bookstore.fragment.DoanhThuFragment"
+        android:label="@string/menu_doanhthu"
+        tools:layout="@layout/fragment_doanh_thu" />
+    <fragment
+        android:id="@+id/nav_doimatkhau"
+        android:name="com.poly.bookstore.fragment.DoiPassFragment"
+        android:label="@string/menu_doimatkhau"
+        tools:layout="@layout/fragment_doi_pass" />
+    <fragment
+        android:id="@+id/nav_dangxuat"
+        android:name="com.poly.bookstore.fragment.LogOutFragment"
+        android:label="@string/menu_dangxuat"
+        tools:layout="@layout/fragment_log_out" />
+</navigation>
